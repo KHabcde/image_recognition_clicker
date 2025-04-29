@@ -1,3 +1,4 @@
 # image_recognition_clicker
-screenshot→OCR→cursor→click
+input : sequense of characters
+screenshot → OCR → バウンティボックス → click
 
